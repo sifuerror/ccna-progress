@@ -17,5 +17,12 @@ Started: June 2025
 
 ### ONGOING:
 - Module 1: Networking Today
+    - Learning about introductory networking concepts:
+        - Role of network
+        - Network components
+        - Network representations and topology
+        - Common types of networks
+        - Different network connections
+        - Reliability in networks
 
 ### NEXT:
