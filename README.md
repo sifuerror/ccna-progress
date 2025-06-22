@@ -7,14 +7,15 @@
 - Learn networking fundamentals (CCNA)
 - Build skills in Linux, Python, and IT troubleshooting
 
-## Current Course: CCNA MOOC (Metropolia)
-Started: May 2025
+## Current Course: CCNA Introduction to Networks (Metropolia UAS, part 1)
+Started: June 2025
 
-### List 1:
-- Basic networking concepts (IP, MAC, DHCP, DNS)
-- Practicing subnetting
-- Lab work in Cisco Packet Tracer
+### COMPLETED:
+1. Getting Started with Packet Tracer:
+    - Network Simulation
+    - Cisco Packet Tracer
 
-### List 2:
-- Configuring a small LAN with VLANs
-- Learning about ARP and routing basics
+### ONGOING:
+- Module 1: Networking Today
+
+### NEXT:
